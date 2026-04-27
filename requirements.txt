@@ -1,0 +1,12 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+streamlit==1.55.0
+requests==2.33.1
+numpy==2.4.4
+pandas==3.0.1
+pyarrow
+scikit-learn==1.7.2
+torch==2.11.0
+google-generativeai
+python-dotenv
+plotly
